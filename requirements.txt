@@ -1,0 +1,10 @@
+streamlit==1.41.1
+openai==1.59.7
+PyMuPDF==1.25.1
+pydantic==2.10.4
+email-validator==2.2.0
+python-dotenv==1.0.1
+google-api-python-client==2.155.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+pytest==8.3.4
